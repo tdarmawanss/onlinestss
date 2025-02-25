@@ -1,8 +1,11 @@
 # Weekly Progress Report
 
 **Week:** 
+
 **Date:** 
+
 **Prepared by:** 
+
 **Project/Task:** OnlineStss.com
 
 ---
