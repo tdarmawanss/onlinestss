@@ -13,32 +13,32 @@ Proyek/Tugas: OnlineStss.com
 
 [Tugas utama yang telah diselesaikan]
 TD:
-	•	Membuat chart perbandingan secara detail untuk hosting RumahWeb (saat ini) & Hostinger (hosting top sesuai #).
+	•	Membuat chart perbandingan secara detail untuk hosting RumahWeb (saat ini) & Hostinger (hosting top sesuai [A3](https://v.gd/Y33xEH)).
 
 [Kemajuan signifikan]
-	•	Desain business process flow mengalami banyak perbaikan.
-	•	Eksplorasi tema WordPress alternatif dengan performa lebih baik.
-	•	Brainstorming untuk UI/UX.
+- Desain business process flow mengalami banyak perbaikan. Task B6-8
+- Eksplorasi tema WordPress alternatif dengan performa lebih baik. Task B4
+- Brainstorming untuk UI/UX. Task U1
 
 ### 2. Tantangan/Masalah
 
 [Hambatan yang dihadapi]
-	•	Endy terkena beban kerja tambahan karena masalah selisih stok logistik.
-	•	Endy jatuh sakit (Rabu), menyebabkan keterlambatan beberapa hari.
-	•	Binsar kurang detail dalam membuat diagram bisnis proses, menyebabkan keterlambatan hingga Jumat.
+- Endy terkena beban kerja tambahan karena masalah selisih stok logistik. 
+- Endy jatuh sakit (Rabu), menyebabkan keterlambatan beberapa hari.
+- Binsar kurang detail dalam membuat diagram bisnis proses, menyebabkan keterlambatan
 
 ### 3. Langkah Selanjutnya
 
 [Tugas untuk minggu depan]
 
 TD:
-	•	Finalisasi rencana hosting.
-	•	Audit keamanan dan performa (kecepatan).
+	•	Finalisasi rencana hosting. Task A3
+	•	Audit keamanan dan performa (kecepatan). Task B4
 
 
 ES/BP:
-	•	Menentukan peran pengguna serta akses dan kapabilitas data.
-	•	Sinkronisasi database dan kompatibilitas data.
+	•	Menentukan peran pengguna serta akses dan kapabilitas data. Task S3
+	•	Sinkronisasi database dan kompatibilitas data. Task W5
 
 ### 4. Catatan Tambahan
 
