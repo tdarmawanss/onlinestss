@@ -19,7 +19,7 @@ TD:
 - Desain business process flow mengalami banyak perbaikan. Task B6-8
 - Eksplorasi tema WordPress alternatif dengan performa lebih baik. Task B4
 - Brainstorming untuk UI/UX. Task U1
-
+- install pugin Mailchimp [P7](https://github.com/tdarmawanss/onlinestss/issues/9) dan Google analytics [P8](https://github.com/tdarmawanss/onlinestss/issues/14) 
 ### 2. Tantangan/Masalah
 
 [Hambatan yang dihadapi]
