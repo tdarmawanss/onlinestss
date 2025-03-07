@@ -1,63 +1,52 @@
-# Weekly Progress Report
+Laporan Kemajuan Mingguan
 
-**Week:** 2
+Minggu: 2
 
-**Date:** 7 march 2025
+Tanggal: 7 Maret 2025
 
-**Prepared by:**  Theo Darmawan
+Disusun oleh: Theo Darmawan
 
-**Project/Task:** OnlineStss.com
-
----
-
-## 1. Accomplishments
+Proyek/Tugas: OnlineStss.com
 
 
-- [List key tasks completed]
-TD: 
-- membuat comparison chart secara detail untuk hosting RumahWeb (yang sekarang) & Hostinger (hosting top sesuai #). 
+### 1. Pencapaian
+
+[Tugas utama yang telah diselesaikan]
+TD:
+	•	Membuat chart perbandingan secara detail untuk hosting RumahWeb (saat ini) & Hostinger (hosting top sesuai #).
+
+[Kemajuan signifikan]
+	•	Desain business process flow mengalami banyak perbaikan.
+	•	Eksplorasi tema WordPress alternatif dengan performa lebih baik.
+	•	Brainstorming untuk UI/UX.
+
+### 2. Tantangan/Masalah
+
+[Hambatan yang dihadapi]
+	•	Endy terkena beban kerja tambahan karena masalah selisih stok logistik.
+	•	Endy jatuh sakit (Rabu), menyebabkan keterlambatan beberapa hari.
+	•	Binsar kurang detail dalam membuat diagram bisnis proses, menyebabkan keterlambatan hingga Jumat.
+
+### 3. Langkah Selanjutnya
+
+[Tugas untuk minggu depan]
+
+TD:
+	•	Finalisasi rencana hosting.
+	•	Audit keamanan dan performa (kecepatan).
 
 
-- [Highlight notable progress]
+ES/BP:
+	•	Menentukan peran pengguna serta akses dan kapabilitas data.
+	•	Sinkronisasi database dan kompatibilitas data.
 
-Untuk desain Bisnis proses flow sudah ada banyak perbaikan.
-Eksplorasi tema2 wordpress alternatif yang performa lebih bagus.
-Brainstorming untuk UIUX.  
-
-## 2. Challenges/Issues
-- [List any obstacles faced]
-Endy kena tumpukan kerjaan baru karena isu data selisih stok logistik.
-Endy jatuh sakit (rabu). 
-Schedule kerjaan dia akan delay beberapa hari.
-Binsar kurang detail melakukan bisnis proses diagramnya sehingga delay sampe jumat. 
-
-## 3. Next Steps
-- [Outline tasks for the upcoming week]
+### 4. Catatan Tambahan
 
 
+Sinkronisasi antara database toko online dan database perusahaan akan membutuhkan waktu agar hubungan data antara tabel Customer, Orders, dan Product kompatibel dengan WooCommerce. WooCommerce menggunakan MySQL, sementara perusahaan menggunakan MSSQLServer. Diperlukan middleware untuk menghubungkan kedua sistem ini, yang menambah pekerjaan. Kendala utama adalah hanya ES yang benar-benar memahami struktur data ini, sementara ia sudah menangani banyak proyek lain.
 
+Perlu dipertimbangkan untuk merancang ulang sistem yang ada dengan mengganti database cabang lokal menjadi satu database nasional berbasis cloud untuk mengurangi kompleksitas dalam proses belanja online. Namun, perubahan ini berada di luar cakupan dan jadwal proyek saat ini.
 
-- [Mention any pending work]
-- [Define key priorities]
+Rapat akan diadakan untuk membahas sinkronisasi backend sistem dan strukturnya.
 
-## 4. Additional Notes
-- [Include relevant updates or observations]
-
-
-- [Mention any concerns or recommendations]
-
-Its becoming clear that the synchronisation between the online store DB and the company DB will require substantial work in ensuring that the data relations are compatible between existing Customer, Orders, Product tables with the WooCommerce tables. WooCommerce uses MySQL, while the company uses MSSQLServer. There will need to be a middleware installed to connect these two systems, which is more work. The bottleneck is that the only person who is familiar with the data structure intimately is ES - who has a lot on his plate already from other projects.
-
-A redesign of the currently deployed systems to change the local cabang databases with a national cloud one may be advisable, to reduce complexity in the online shopping processes. This will require changing the existing systems, which is outside the scope of the project as of now. *It is my recommendation that a meeting be held to discuss the overall database synchronisation plan.*
-
-
-
-
-
-
-
----
-
-**Status Summary:** `[Delayed]`  
-
-
+Ringkasan Status: [Tertunda]
